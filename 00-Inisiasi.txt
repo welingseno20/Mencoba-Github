@@ -1,0 +1,5 @@
+Poin-poin mengenai ide dalam mencoba Github:
+- Eksplorasi mengenai fitur2 dalam Github
+- Membuat suatu project baru dari penyusunan coding untuk aplikasi tertentu
+- Mencoba fitur2 utama seperti commit, branch, merge, dan check out
+- Konsisten untuk terus menambahkan portofolio
